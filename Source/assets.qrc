@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resFiles/map.png</file>
+        <file>resFiles/crown.png</file>
+        <file>resFiles/sod.png</file>
+    </qresource>
+</RCC>
